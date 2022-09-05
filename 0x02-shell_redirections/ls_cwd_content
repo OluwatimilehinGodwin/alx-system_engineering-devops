@@ -1,0 +1,13 @@
+total 43
+drwx------ 2 u0_a306 u0_a306 3488 Sep  5 16:38 .
+drwx------ 6 u0_a306 u0_a306 3488 Sep  5 14:30 ..
+-rwx------ 1 u0_a306 u0_a306   32 Sep  5 14:52 0-hello_world
+-rwx------ 1 u0_a306 u0_a306   28 Sep  5 15:11 1-confused_smiley
+-rwx------ 1 u0_a306 u0_a306   28 Sep  5 15:18 2-hellofile
+-rwx------ 1 u0_a306 u0_a306   39 Sep  5 15:33 3-twofiles
+-rwx------ 1 u0_a306 u0_a306   29 Sep  5 15:36 4-lastlines
+-rwx------ 1 u0_a306 u0_a306   29 Sep  5 15:38 5-firstlines
+-rwx------ 1 u0_a306 u0_a306    1 Sep  5 16:33 7-file
+-rwx------ 1 u0_a306 u0_a306   35 Sep  5 16:37 8-cwd_state
+-rw------- 1 u0_a306 u0_a306   32 Sep  5 14:31 README.md
+-rw------- 1 u0_a306 u0_a306    0 Sep  5 16:38 ls_cwd_content
